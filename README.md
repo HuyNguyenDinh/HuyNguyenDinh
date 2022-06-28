@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm looking to be a data engineer but before it I wanna try to be a backend developer with Django.
+I'm looking to be a fullstack developer with Django and Reactjs.
 <!--
 **HuyNguyenDinh/HuyNguyenDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
