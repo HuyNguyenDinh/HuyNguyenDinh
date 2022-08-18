@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm looking to be a fullstack developer with Django and Reactjs.
+For now I'm similar to Flask, Django + Django REST Framework.
+Beside that, I have knowledge about Data Mining with Weka or Pandas, Numpy and sklearn with Python.
 <!--
 **HuyNguyenDinh/HuyNguyenDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
